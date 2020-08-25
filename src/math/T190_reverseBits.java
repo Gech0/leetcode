@@ -5,6 +5,10 @@ public class T190_reverseBits {
         StringBuilder sn = new StringBuilder();
         int res = 0;
         while (n != 0) {
+            /*
+            注：这里不能写n>0，因为java没有无符号整数，所以输入的时候有可能超出了java中int的范围，
+            n在java中的值 <0
+             */
             sn.append(n % 2);
             n >>>= 1;
         }

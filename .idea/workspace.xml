@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="" />
+    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/math/T190_reverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/T190_reverseBits.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cYu7FltkZKYXTRKQF5bIaXRV8T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -193,7 +199,7 @@
       <workItem from="1597977248574" duration="12717000" />
       <workItem from="1598162693834" duration="5254000" />
       <workItem from="1598237492892" duration="12334000" />
-      <workItem from="1598321482185" duration="614000" />
+      <workItem from="1598321482185" duration="822000" />
     </task>
     <servers />
   </component>
@@ -670,7 +676,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/math/T190_reverseBits.java</url>
-          <line>18</line>
+          <line>22</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
