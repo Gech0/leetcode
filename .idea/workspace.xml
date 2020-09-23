@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/math/T190_reverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/T190_reverseBits.java" afterDir="false" />
+    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="add notes">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cYu7FltkZKYXTRKQF5bIaXRV8T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,25 +49,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.T190_reverseBits">
-    <configuration name="T169_majorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.T169_majorityElement" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T171_titleToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.T171_titleToNumber" />
+  <component name="RunManager" selected="Application.T205_isIsomorphic">
+    <configuration name="T191_hammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.T191_hammingWeight" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T172_trailingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.T172_trailingZeroes" />
+    <configuration name="T202_isHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.T202_isHappy" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -89,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T190_reverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.T190_reverseBits" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T459_repeatedSubstringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.T459_repeatedSubstringPattern" />
+    <configuration name="T205_isIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.T205_isIsomorphic" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T4_findMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.T4_findMedianSortedArrays" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T538_convertBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.T538_convertBST" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T190_reverseBits" />
-        <item itemvalue="Application.T172_trailingZeroes" />
-        <item itemvalue="Application.T459_repeatedSubstringPattern" />
-        <item itemvalue="Application.T171_titleToNumber" />
-        <item itemvalue="Application.T169_majorityElement" />
+        <item itemvalue="Application.T205_isIsomorphic" />
+        <item itemvalue="Application.T202_isHappy" />
+        <item itemvalue="Application.T191_hammingWeight" />
+        <item itemvalue="Application.T538_convertBST" />
+        <item itemvalue="Application.T4_findMedianSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -199,12 +205,51 @@
       <workItem from="1597977248574" duration="12717000" />
       <workItem from="1598162693834" duration="5254000" />
       <workItem from="1598237492892" duration="12334000" />
-      <workItem from="1598321482185" duration="822000" />
+      <workItem from="1598321482185" duration="6016000" />
+      <workItem from="1598407733430" duration="3182000" />
+      <workItem from="1599478875283" duration="8473000" />
+      <workItem from="1599736416464" duration="4058000" />
+      <workItem from="1599788968775" duration="16520000" />
+      <workItem from="1599904254329" duration="2994000" />
+      <workItem from="1600090156924" duration="1911000" />
+      <workItem from="1600339929813" duration="3936000" />
+      <workItem from="1600403637233" duration="15103000" />
+      <workItem from="1600478693694" duration="8210000" />
+      <workItem from="1600557731774" duration="666000" />
+      <workItem from="1600674976493" duration="8765000" />
+      <workItem from="1600757674609" duration="4519000" />
+      <workItem from="1600838201676" duration="13774000" />
+      <workItem from="1600866912153" duration="2999000" />
     </task>
+    <task id="LOCAL-00001" summary="add notes">
+      <created>1598347582795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598347582796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add notes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="680" y="74" key="#Notifications" timestamp="1596383441052">
@@ -215,66 +260,82 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="756" y="124" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1596173460168" />
-    <state x="284" y="98" key="#xdebugger.evaluate" timestamp="1591673676122">
+    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2" timestamp="1600871220078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="284" y="98" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1591673676122" />
-    <state width="604" height="149" key="GridCell.Tab.0.bottom" timestamp="1598284185679">
+    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600871220078" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1598411363599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598284185679" />
-    <state width="604" height="149" key="GridCell.Tab.0.center" timestamp="1598284185679">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598411363599" />
+    <state width="816" height="143" key="GridCell.Tab.0.bottom" timestamp="1600866463789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="149" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598284185679" />
-    <state width="604" height="149" key="GridCell.Tab.0.left" timestamp="1598284185678">
+    <state width="816" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600866463789" />
+    <state width="816" height="143" key="GridCell.Tab.0.center" timestamp="1600866463789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="149" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598284185678" />
-    <state width="604" height="149" key="GridCell.Tab.0.right" timestamp="1598284185679">
+    <state width="816" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600866463789" />
+    <state width="816" height="143" key="GridCell.Tab.0.left" timestamp="1600866463788">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="149" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598284185679" />
-    <state width="604" height="298" key="GridCell.Tab.1.bottom" timestamp="1598284185599">
+    <state width="816" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600866463788" />
+    <state width="816" height="143" key="GridCell.Tab.0.right" timestamp="1600866463789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="298" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598284185599" />
-    <state width="604" height="298" key="GridCell.Tab.1.center" timestamp="1598284185598">
+    <state width="816" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600866463789" />
+    <state width="1072" height="245" key="GridCell.Tab.1.bottom" timestamp="1600866463774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="298" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598284185598" />
-    <state width="604" height="298" key="GridCell.Tab.1.left" timestamp="1598284185598">
+    <state width="1072" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600866463774" />
+    <state width="1072" height="245" key="GridCell.Tab.1.center" timestamp="1600866463774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="298" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598284185598" />
-    <state width="604" height="298" key="GridCell.Tab.1.right" timestamp="1598284185598">
+    <state width="1072" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600866463774" />
+    <state width="1072" height="245" key="GridCell.Tab.1.left" timestamp="1600866463774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="604" height="298" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598284185598" />
-    <state x="797" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1598321482034">
+    <state width="1072" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600866463774" />
+    <state width="1072" height="245" key="GridCell.Tab.1.right" timestamp="1600866463774">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="797" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598321482034" />
-    <state x="687" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591191850846">
+    <state width="1072" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600866463774" />
+    <state x="745" y="113" key="NewModule_or_Project.wizard" timestamp="1600869979281">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="687" y="100" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1591191850846" />
+    <state x="745" y="113" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1600869979281" />
+    <state x="526" y="8" key="SettingsEditor" timestamp="1598411440950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="8" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598411440950" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1598347725255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598347725255" />
+    <state x="797" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1600757697519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="797" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600757697519" />
     <state x="860" y="180" key="extract.method.dialog" timestamp="1595937368865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="860" y="180" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1595937368865" />
-    <state x="356" y="22" key="new project wizard" timestamp="1597586057325">
+    <state x="754" y="115" width="782" height="600" key="find.popup" timestamp="1600431854800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597586057325" />
+    <state x="754" y="115" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1600431854800" />
+    <state x="356" y="22" key="new project wizard" timestamp="1598411550552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598411550552" />
     <state x="674" y="190" key="run.anything.popup" timestamp="1598188745183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="674" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598188745183" />
-    <state x="778" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597926934772">
+    <state x="778" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600698653486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="778" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597926934772" />
+    <state x="778" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600698653486" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -408,31 +469,6 @@
           <url>file://$PROJECT_DIR$/src/T15_threeSum.java</url>
           <line>29</line>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/T63_uniquePathsWithObstacles.java</url>
@@ -678,6 +714,36 @@
           <url>file://$PROJECT_DIR$/src/math/T190_reverseBits.java</url>
           <line>22</line>
           <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/T47_permuteUnique.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/T47_permuteUnique.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/T5_longestPalindrome.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/T5_longestPalindrome.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/T4_findMedianSortedArrays.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/T4_findMedianSortedArrays.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
