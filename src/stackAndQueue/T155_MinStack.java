@@ -3,6 +3,10 @@ package stackAndQueue;
 import java.util.Stack;
 
 public class T155_MinStack {
+    /*
+    思路：
+    使用辅助栈，记录当前栈内的最小元素
+     */
     private Stack<Integer> stack; //这里可以定义为private
     private Stack<Integer> minSta;
     public T155_MinStack() {
