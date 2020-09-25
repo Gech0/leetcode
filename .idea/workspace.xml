@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="add notes">
+    <list default="true" id="96e41a33-5db3-41ff-8fc8-7ac57ac8bd75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/T617_mergeTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/T617_mergeTrees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1cYu7FltkZKYXTRKQF5bIaXRV8T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -230,7 +230,10 @@
       <workItem from="1600866912153" duration="4018000" />
       <workItem from="1600872645836" duration="614000" />
       <workItem from="1600913554629" duration="6465000" />
-      <workItem from="1600940799590" duration="1075000" />
+      <workItem from="1600940799590" duration="1317000" />
+      <workItem from="1600958013406" duration="366000" />
+      <workItem from="1601005257428" duration="4152000" />
+      <workItem from="1601027446239" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="add notes">
       <created>1598347582795</created>
@@ -246,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600871257673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 2 lc solutions">
+      <created>1600947925290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600947925290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +277,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add notes" />
+    <MESSAGE value="add 2 lc solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2 lc solutions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="680" y="74" key="#Notifications" timestamp="1596383441052">
@@ -278,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="756" y="124" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1596173460168" />
-    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2" timestamp="1600947899582">
+    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2" timestamp="1600947923744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600947899582" />
+    <state x="372" y="4" width="959" height="815" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600947923744" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1598411363599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -326,14 +337,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="622" y="54" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600947802536" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1600871268456">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1600947931411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600871268456" />
-    <state x="797" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1600940799526">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600947931411" />
+    <state x="797" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1601027449353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="797" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600940799526" />
+    <state x="797" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601027449353" />
     <state x="860" y="180" key="extract.method.dialog" timestamp="1595937368865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
